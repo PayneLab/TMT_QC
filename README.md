@@ -1,1 +1,3 @@
 # TMT_QC
+
+WE note that this repository contains code for the manuscript titled "". Methods for analysis and plotting each figure are in files obviously named, e.g. Make_FIgure_1.ipynb. Due to their large disk size, the raw mass sepctra are not saved within this repo, but are publicly avaialble at MASSIVE and PRIDE. See bulleted list below. The PSM identificaiont and quantitation files from the analysis of raw mass spec data are also too large to store within thkis repo. They have been stored on a Box folder. You will see that the start of each .ipynb file loads the appropriate PSM results using a simple URL request. 
