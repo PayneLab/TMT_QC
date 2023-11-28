@@ -1,1 +1,3 @@
 # TMT_QC
+
+We note that this repository contains code for the manuscript titled "Pushing the Isotopic Envelope: When carrier channels pollute their neighbors’ signals". Methods for analysis and plotting each figure are in files obviously named, e.g. Make_Figure_1.ipynb. Due to their large disk size, the raw mass spectra are not saved within this repo, but are publicly avaialble at MASSIVE and PRIDE. See bulleted list below. The PSM identification and quantitation files from the analysis of raw mass spec data are also too large to store within this repo. They have been stored on a Box folder. You will see that the start of each .ipynb file loads the appropriate PSM results using a simple URL request. 

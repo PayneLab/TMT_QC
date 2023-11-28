@@ -1,0 +1,11 @@
+useDetect = false
+numThreads = 63
+DiaNN = C:\Users\Isengard\MassSpec\FragPipe-jre-19.1\fragpipe\tools\diann\1.8.2_beta_8\win\DiaNN.exe
+renamePin = 1
+useRT = true
+useSpectra = true
+fragger = C:\Users\Isengard\MassSpec\ProteinQuantData\PXD016057\output\fragger.params
+deletePreds = false
+mzmlDirectory = C:\Users\Isengard\MassSpec\ProteinQuantData\PXD016057\mzML 
+pinPepXMLDirectory = 3celltype_singlecell_Boost1000_8May19_Oak_Jup-19-02-04.pin 3celltype_singlecell_noBoost_8May19_Oak_Jup-19-02-04.pin 3celltype_singlecell_Boost100_8May19_Oak_Jup-19-02-04.pin
+useMultipleCorrelatedFeatures = false
